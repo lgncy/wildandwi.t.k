@@ -1,4 +1,4 @@
-<h2 align="left">Hi! My name is Rasya Justicio and I'm a full-stack developer, from Indonesia</h2>
+<h2 align="left">Aku Wildan</h2>
 
 ###
 
